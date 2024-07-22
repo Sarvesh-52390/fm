@@ -1,0 +1,52 @@
+h1{
+text-align: left;
+color: pink;
+font-family: Rubik Microbe;
+
+}
+img.sid
+{ 
+border-radius: 50%;
+}
+.heading {
+text-align: center;
+color: black;
+font-family: Papyrus ;
+font-size:12px;
+
+}
+.para
+{
+
+ color: black;
+
+}
+
+.pa
+{
+
+ color: black;
+
+}
+body
+{
+border-style:solid;
+border-color:black;
+margin-left:380px;
+margin-right:380px;
+box-shadow:2px 4px 3px white;
+background-image: url(seven.jpg);
+background-size: cover;
+
+
+
+}
+
+.box 
+{
+text-align: center;	
+border-color: transparent;
+
+
+}
+
